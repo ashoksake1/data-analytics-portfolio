@@ -26,7 +26,7 @@ Analyze insurance sales data to track revenue, customer acquisition, and sales p
 
 1. Extracted and cleaned data using MySQL
 2. Performed analysis on sales and revenue
-3. Built interactive dashboard in Power BI
+3. Built interactive dashboard in Power BI and Excel
 
 ---
 
