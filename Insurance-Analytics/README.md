@@ -39,3 +39,15 @@ Analyze insurance sales data to track revenue, customer acquisition, and sales p
 ---
 
 ## 📸 Dashboards
+📂 File: `PowerBI/Dashboard Screenshot.png`
+📂 File: `PowerBI/insurance-sales-analysis.pbix`
+📂 File: `Excel/Dashboard Screenshot.png`
+📂 File: `Excel/insurance-sales-analysis.xlsx`
+
+---
+
+## 🧾 SQL Analysis (MySQL)
+
+Performed insurance sales data analysis using MySQL
+  
+📂 File: `MySQL/insurance-sales-analysis.sql`
