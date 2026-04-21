@@ -1,4 +1,4 @@
-/* BANK DATA ANALYTICS - MYSQL PROJECT */
+/* BANK LOAN ANALYTICS - MYSQL PROJECT */
 -------------------------------------------------------------
 # CREATE DATABASE 
 create database bank_analytics_project;
