@@ -56,4 +56,4 @@ Analyzed loan portfolio data to monitor credit risk, loan distribution, and repa
 * Performed data analysis using MySQL
 * Created queries for loan distribution, default rate, and risk analysis
 
-📂 File: `sql/bank-loan-analysis.sql`
+📂 File: `MySQL Project.sql`
