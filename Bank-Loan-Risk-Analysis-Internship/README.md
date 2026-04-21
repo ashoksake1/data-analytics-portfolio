@@ -51,7 +51,17 @@ Analyzed loan portfolio data to monitor credit risk, loan distribution, and repa
 
 ---
 
+## 📸 Dashboards
+📂 File: `Power BI/Dashboard Screenshot.png`
+📂 File: `Power BI/bank-loan-analysis.pbix`
+📂 File: `Tableau/Dashboard Screenshot.png`
+📂 File: `Tableau/bank-loan-analysis.twbx`
+
+---
+
 ## 🧾 SQL Analysis (MySQL)
 
 * Performed data analysis using MySQL
 * Created queries for loan distribution, default rate, and risk analysis
+  
+📂 File: `sql/bank-loan-analysis.sql`
